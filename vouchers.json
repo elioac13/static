@@ -1,0 +1,27 @@
+[
+  {
+    "code": "voucher_250",
+    "name": "$ 250",
+    "price": 450,
+  },
+  {
+    "code": "voucher_500",
+    "name": "$ 500",
+    "price": 900,
+  },
+  {
+    "code": "voucher_750",
+    "name": "$ 750",
+    "price": 1350,
+  },
+  {
+    "code": "voucher_1000",
+    "name": "$ 1000",
+    "price": 1800,
+  },
+  {
+    "code": "voucher_1500",
+    "name": "$ 1500",
+    "price": 2700,
+  }
+]
